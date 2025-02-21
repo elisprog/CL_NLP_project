@@ -11,9 +11,9 @@ Includes Python code:
 2. scraping and parsing of Instituto Cervantes Lexical contents for students of SSL (Spanish as a second language)
 3. preprocessing of text corpus
    (NLTK, stopwords)
-4. unigram and bigram selection of all corpus with special attention to economy articles of the corpus
-   (FreqDist, BigramFinder, POS part of speech with Stanza)
-   ![freq_econ_corp](https://github.com/user-attachments/assets/1b9f15b1-0869-46c1-a809-777d9b12b7b9)
+4. unigram and bigram selection of all corpus with special attention to economy articles of the corpus (FreqDist, BigramFinder, POS part of speech with Stanza)
+
+    ![freq_econ_corp](https://github.com/user-attachments/assets/1b9f15b1-0869-46c1-a809-777d9b12b7b9)
    ![freq_all_corp](https://github.com/user-attachments/assets/23e72eb7-1691-4869-9e2b-c26b2c11fe94)
 
 
