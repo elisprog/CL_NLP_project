@@ -1,6 +1,6 @@
 # CL_NLP_project
 A midterm project for 'Computational linguistics' program in HSE
-'Analysis of BBC Mundo News in Spanish language for teaching purposes'
+'Analysis of BBC Mundo News Spanish lexis for teaching purposes'
 
 Includes Python code:
 1. scraping and parsing of BBC Mundo News website
