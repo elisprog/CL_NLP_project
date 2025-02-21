@@ -6,7 +6,8 @@ Interactive presentation
 https://view.genially.com/67b8d17fc1dc50bb869a581b/presentation-clnlpproject
 
 Includes Python code:
-*1.* scraping and parsing of BBC Mundo News website
+
+1. scraping and parsing of BBC Mundo News website
    (request.get(), BeautifulSoup, regular expressions)
 2. scraping and parsing of Instituto Cervantes Lexical contents for students of SSL (Spanish as a second language)
 3. preprocessing of text corpus
