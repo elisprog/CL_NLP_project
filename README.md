@@ -13,10 +13,13 @@ Includes Python code:
    (NLTK, stopwords)
 4. unigram and bigram selection of all corpus with special attention to economy articles of the corpus
    (FreqDist, BigramFinder, POS part of speech with Stanza)
+   ![freq_econ_corp](https://github.com/user-attachments/assets/1b9f15b1-0869-46c1-a809-777d9b12b7b9)
+   ![freq_all_corp](https://github.com/user-attachments/assets/23e72eb7-1691-4869-9e2b-c26b2c11fe94)
 
-5. TF-IDF key words and most frequent words in economy articles of the corpus
+
+6. TF-IDF key words and most frequent words in economy articles of the corpus
    ![tf_idf_econ_words](https://github.com/user-attachments/assets/6a230a03-d72e-4dc7-bfa9-0cce46d779a8)
    ![uniq_econ_freq_wordcloud](https://github.com/user-attachments/assets/0bab7951-f764-4cfe-8f2d-399cd0a91c71)
 
-5. comparison of the percentage of lexical contents in all corpus with special attention to economy articles of the corpus
+7. comparison of the percentage of lexical contents in all corpus with special attention to economy articles of the corpus
 
