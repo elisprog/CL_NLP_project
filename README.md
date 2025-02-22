@@ -10,9 +10,9 @@ Includes Python code:
 1. scraping and parsing of BBC Mundo News website
    (request.get(), BeautifulSoup, regular expressions)
 [8 sections of the BBC Mundo News website: amlat_section.txt, cienc_section.txt, cult_section.txt, econ_section.txt, festiv_section.txt, intern_section.txt, salud_section.txt, tecnolog_section.txt]
-3. scraping and parsing of Instituto Cervantes Lexical contents for students of SSL (Spanish as a second language)
+3. scraping and parsing of Instituto Cervantes Lexical contents for students of SSL (Spanish as a second language) 
 4. preprocessing of text corpus
-   (NLTK, stopwords)
+   (NLTK, stopwords) [some preprocessed text files couldn't have been uploaded to GitHub technically]
 5. unigram and bigram selection of all corpus with special attention to economy articles of the corpus (FreqDist, BigramFinder, Likelihood, Student´s t-distribution, POS part of speech with Stanza)
 
 6. TF-IDF key words and most frequent words in economy articles of the corpus
