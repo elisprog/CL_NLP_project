@@ -20,7 +20,7 @@
 ```
 NLTK stopwords
 ```
-*some preprocessed text files couldn't have been uploaded to GitHub technically*
+*some text files couldn't have been uploaded to GitHub technically*
 ### 4. Unigram and bigram selection of all corpus with special attention to economy articles of the corpus 
 ```
 FreqDist
@@ -29,11 +29,11 @@ Likelihood
 Student´s t-distribution
 POS part of speech with Stanza
 ```
-
+*some text files couldn't have been uploaded to GitHub technically*
 ### 5. TF-IDF key words and most frequent words in economy articles of the corpus
- 
+ *some text files couldn't have been uploaded to GitHub technically*
 ### 6. Comparison of the percentage of lexical contents of Instituo Cervantes website in all corpus with special attention to economy articles of the corpus
-
+*some text files couldn't have been uploaded to GitHub technically*
  ![freq_all_corp](https://github.com/user-attachments/assets/23e72eb7-1691-4869-9e2b-c26b2c11fe94)
   ![tf_idf_econ_words](https://github.com/user-attachments/assets/6a230a03-d72e-4dc7-bfa9-0cce46d779a8)
    ![uniq_econ_freq_wordcloud](https://github.com/user-attachments/assets/0bab7951-f764-4cfe-8f2d-399cd0a91c71)
