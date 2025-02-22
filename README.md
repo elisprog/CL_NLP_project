@@ -1,6 +1,6 @@
 # CL_NLP_project
 ## A midterm project for 'Computational linguistics' program in HSE 
-"Analysis of BBC Mundo News Spanish lexis for teaching purposes"
+**"Analysis of BBC Mundo News Spanish lexis for teaching purposes"**
 
 [Interactive presentation of the project](https://view.genially.com/67b8d17fc1dc50bb869a581b/presentation-clnlpproject)
 
@@ -12,15 +12,15 @@ Includes Python code with:
    BeautifulSoup
    regular expressions
    ```
-**8 sections of the BBC Mundo News website: amlat_section.txt, cienc_section.txt, cult_section.txt, econ_section.txt, festiv_section.txt, intern_section.txt, salud_section.txt, tecnolog_section.txt**
+*8 sections of the BBC Mundo News website: amlat_section.txt, cienc_section.txt, cult_section.txt, econ_section.txt, festiv_section.txt, intern_section.txt, salud_section.txt, tecnolog_section.txt*
 
 ### 2. Scraping and parsing of Instituto Cervantes Lexical contents for students of SSL (Spanish as a second language) 
-**all_words_cervantes.txt (both specific and general terms), words_cervantes.txt (specific terms), words_gen_cervantes.txt (general terms)**
+*all_words_cervantes.txt (both specific and general terms), words_cervantes.txt (specific terms), words_gen_cervantes.txt (general terms)*
 ### 3. Preprocessing of text corpus
 ```
 NLTK stopwords
 ```
-**some preprocessed text files couldn't have been uploaded to GitHub technically**
+*some preprocessed text files couldn't have been uploaded to GitHub technically*
 ### 4. Unigram and bigram selection of all corpus with special attention to economy articles of the corpus 
 ```
 FreqDist
