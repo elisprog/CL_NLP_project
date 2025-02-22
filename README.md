@@ -23,7 +23,7 @@
 NLTK stopwords
 ```
 [!IMPORTANT]
-*some text files couldn't have been uploaded to GitHub technically*
+some text files couldn't have been uploaded to GitHub technically*
 
 ### 4. Unigram and bigram selection of all corpus with special attention to economy articles of the corpus 
 ```
