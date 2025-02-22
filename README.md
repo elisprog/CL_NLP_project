@@ -32,6 +32,7 @@ NLTK stopwords
 
  4. Unigram and bigram selection of all corpus with special attention to economy articles of the corpus 
 ```
+Matplotlib
 FreqDist
 BigramFinder
 Likelihood
@@ -41,6 +42,8 @@ POS part of speech with Stanza
 
  5. TF-IDF key words and most frequent words in economy articles of the corpus
 ```
+Pandas
+Scikit-learn
 TF-IDF vectorizer
 ```
 
