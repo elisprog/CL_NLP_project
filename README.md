@@ -7,12 +7,13 @@
 
 
 ### 1. Scraping and parsing of BBC Mundo News website
+*8 sections of the BBC Mundo News website: amlat_section.txt, cienc_section.txt, cult_section.txt, econ_section.txt, festiv_section.txt, intern_section.txt, salud_section.txt, tecnolog_section.txt*
    ```
    request.get()
    BeautifulSoup
    regular expressions
    ```
-*8 sections of the BBC Mundo News website: amlat_section.txt, cienc_section.txt, cult_section.txt, econ_section.txt, festiv_section.txt, intern_section.txt, salud_section.txt, tecnolog_section.txt*
+
 
 ### 2. Scraping and parsing of Instituto Cervantes Lexical contents for students of SSL (Spanish as a second language) 
 *all_words_cervantes.txt (both specific and general terms), words_cervantes.txt (specific terms), words_gen_cervantes.txt (general terms)*
