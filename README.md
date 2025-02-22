@@ -2,12 +2,11 @@
 ## ["Analysis of BBC Mundo News Spanish lexis for teaching purposes" (click here for an interactive presentation)](https://view.genially.com/67b8d17fc1dc50bb869a581b/presentation-clnlpproject)
 ### A midterm project for Computational Linguistics program in HSE 
 
-
+### Step by step code guide
 
 >[!IMPORTANT] 
 >*some text files couldn't have been uploaded to GitHub technically*
 
-### Step by step code guide
  1. Scraping and parsing of BBC Mundo News website
    ```
    request.get()
