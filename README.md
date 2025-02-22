@@ -1,5 +1,5 @@
 # CL_NLP_project 
-## ["Analysis of BBC Mundo News Spanish lexis for teaching purposes"](https://view.genially.com/67b8d17fc1dc50bb869a581b/presentation-clnlpproject)
+## ["Analysis of BBC Mundo News Spanish lexis for teaching purposes" (click here for an interactive presentation)](https://view.genially.com/67b8d17fc1dc50bb869a581b/presentation-clnlpproject)
 ### A midterm project for Computational Linguistics program in HSE 
 
 
@@ -46,7 +46,7 @@ TF-IDF vectorizer
 
 ### 6. Comparison of the percentage of lexical contents of Instituto Cervantes website in all corpus with special attention to economy articles of the corpus
 
-## Examples of visual data representation:
+## Examples of data visual representation:
 
   ![tf_idf_econ_words](https://github.com/user-attachments/assets/6a230a03-d72e-4dc7-bfa9-0cce46d779a8)
  ![freq_all_corp](https://github.com/user-attachments/assets/23e72eb7-1691-4869-9e2b-c26b2c11fe94)
