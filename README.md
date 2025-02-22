@@ -34,8 +34,11 @@ POS part of speech with Stanza
 ```
 
 ### 5. TF-IDF key words and most frequent words in economy articles of the corpus
+```
+TF-IDF vectorizer
+```
 
-### 6. Comparison of the percentage of lexical contents of Instituo Cervantes website in all corpus with special attention to economy articles of the corpus
+### 6. Comparison of the percentage of lexical contents of Instituto Cervantes website in all corpus with special attention to economy articles of the corpus
 
  ![freq_all_corp](https://github.com/user-attachments/assets/23e72eb7-1691-4869-9e2b-c26b2c11fe94)
   ![tf_idf_econ_words](https://github.com/user-attachments/assets/6a230a03-d72e-4dc7-bfa9-0cce46d779a8)
