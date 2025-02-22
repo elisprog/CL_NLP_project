@@ -2,8 +2,7 @@
 A midterm project for 'Computational linguistics' program in HSE
 'Analysis of BBC Mundo News Spanish lexis for teaching purposes'
 
-Interactive presentation
-https://view.genially.com/67b8d17fc1dc50bb869a581b/presentation-clnlpproject
+[Interactive presentation of the project](https://view.genially.com/67b8d17fc1dc50bb869a581b/presentation-clnlpproject)
 
 Includes Python code:
 
