@@ -7,6 +7,7 @@
 >[!IMPORTANT] 
 >*some text files couldn't have been uploaded to GitHub technically*
 
+### Step by step code guide
  1. Scraping and parsing of BBC Mundo News website
    ```
    request.get()
