@@ -15,8 +15,7 @@
    ```
 ```
 8 sections of the BBC Mundo News website:
-amlat_section.txt, cienc_section.txt, cult_section.txt, econ_section.txt,
-festiv_section.txt, intern_section.txt, salud_section.txt, tecnolog_section.txt
+amlat_section.txt, cienc_section.txt, cult_section.txt, econ_section.txt, festiv_section.txt, intern_section.txt, salud_section.txt, tecnolog_section.txt
 ```
 
 ### 2. Scraping and parsing of Instituto Cervantes Lexical contents for students of SSL (Spanish as a second language) 
