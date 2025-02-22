@@ -1,6 +1,5 @@
 # CL_NLP_project
-## "Analysis of BBC Mundo News Spanish lexis for teaching purposes" 
-**A midterm project for 'Computational linguistics' program in HSE**
+## "Analysis of BBC Mundo News Spanish lexis for teaching purposes". A midterm project for 'Computational linguistics' program in HSE
 
 [Interactive presentation of the project](https://view.genially.com/67b8d17fc1dc50bb869a581b/presentation-clnlpproject)
 
