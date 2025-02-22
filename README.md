@@ -4,7 +4,7 @@
 
 [Interactive presentation of the project](https://view.genially.com/67b8d17fc1dc50bb869a581b/presentation-clnlpproject)
 
-Includes Python code with:
+
 
 ### 1. Scraping and parsing of BBC Mundo News website
    ```
