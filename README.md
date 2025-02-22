@@ -6,17 +6,32 @@
 
 Includes Python code with:
 
-1. scraping and parsing of BBC Mundo News website
-   (request.get(), BeautifulSoup, regular expressions)
+1. Scraping and parsing of BBC Mundo News website
+   ```
+   request.get()
+   BeautifulSoup
+   regular expressions
+   ```
 [8 sections of the BBC Mundo News website: amlat_section.txt, cienc_section.txt, cult_section.txt, econ_section.txt, festiv_section.txt, intern_section.txt, salud_section.txt, tecnolog_section.txt]
-3. scraping and parsing of Instituto Cervantes Lexical contents for students of SSL (Spanish as a second language) [all_words_cervantes.txt (both specific and general terms), words_cervantes.txt (specific terms), words_gen_cervantes.txt (general terms)]
-4. preprocessing of text corpus
-   (NLTK, stopwords) [some preprocessed text files couldn't have been uploaded to GitHub technically]
-5. unigram and bigram selection of all corpus with special attention to economy articles of the corpus (FreqDist, BigramFinder, Likelihood, Student´s t-distribution, POS part of speech with Stanza)
+2. scraping and parsing of Instituto Cervantes Lexical contents for students of SSL (Spanish as a second language) [all_words_cervantes.txt (both specific and general terms), words_cervantes.txt (specific terms), words_gen_cervantes.txt (general terms)]
+3. preprocessing of text corpus
+   ```
+NLTK stopwords
+```
+[some preprocessed text files couldn't have been uploaded to GitHub technically]
+4. unigram and bigram selection of all corpus with special attention to economy articles of the corpus 
+```
+FreqDist
+BigramFinder
+Likelihood
+Student´s t-distribution
+POS part of speech with Stanza
+```
 
-6. TF-IDF key words and most frequent words in economy articles of the corpus
+5. ```TF-IDF key words and most frequent words in economy articles of the corpus
+   TF-IDF
  
-7. comparison of the percentage of lexical contents of Instituo Cervantes website in all corpus with special attention to economy articles of the corpus
+6. comparison of the percentage of lexical contents of Instituo Cervantes website in all corpus with special attention to economy articles of the corpus
 
  ![freq_all_corp](https://github.com/user-attachments/assets/23e72eb7-1691-4869-9e2b-c26b2c11fe94)
   ![tf_idf_econ_words](https://github.com/user-attachments/assets/6a230a03-d72e-4dc7-bfa9-0cce46d779a8)
